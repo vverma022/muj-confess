@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
   return (
     <div className='flex justify-center'>
-        <div className='text-white font-bold text-2xl'>
+        <div className='text-white font-bold text-2xl pb-3 pt-0'>
             MUJ CONFESSIONS
         </div>
     </div>
